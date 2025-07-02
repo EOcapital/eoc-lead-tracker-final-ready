@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div className="p-4">
-      <h1 className="text-2xl font-bold">EOC Lead Tracker</h1>
-      <p>This is the working app interface.</p>
+    <div className="p-8 text-center">
+      <h1 className="text-4xl font-bold mb-4">EOC Lead Tracker</h1>
+      <p className="text-lg">Welcome to the final working version of your app!</p>
     </div>
   );
 }
